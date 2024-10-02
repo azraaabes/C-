@@ -67,7 +67,7 @@ namespace _01_MainSubjects
             //int
             //int number = 24;
             //Console.WriteLine(number);
-            //Console.WriteLine();
+           
 
             int hamburgerPrice = 300;
             int cokePrice = 35;
