@@ -1,4 +1,5 @@
-C# Eğitim Kampı Projeleri
+  ⭐⭐C# Eğitim Kampı Projeleri:
+
 Bu repo, Murat Yücedağ’ın eğitmenliğinde gerçekleştirdiğim projeleri gösteriyor. Her proje, C#’ın temel kavramlarını öğrenmemi sağladı. İşte bu projelerde edindiğim bilgiler:
 
 🚀 Proje 1: Merhaba Dünya!
