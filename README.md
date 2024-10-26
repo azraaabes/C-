@@ -26,6 +26,6 @@ Foreach döngüsüyle basit bir sınav sistemi geliştirdim. Öğrenci notların
 🚀 Proje 8: Geriye Değer Döndüren Fonksiyonlar
 Son projede, kullanıcı girdilerine göre işlem yapan ve sonuç döndüren fonksiyonlar yazdım. Daha karmaşık algoritmalar üzerinde çalıştım.
 
-🚀 Proje 9: SQL ile CRUD İşlemleri
+🚀 Proje 9-10: SQL ile CRUD İşlemleri
 Bu projede, SQL ile C# arasındaki köprüyü kurarak veritabanı işlemlerini etkin bir şekilde gerçekleştirmeyi öğrendim.Veritabanındaki ürünleri listele,silme ve güncelleme gibi farklı işlemler üzerinde çalıştım.
 
