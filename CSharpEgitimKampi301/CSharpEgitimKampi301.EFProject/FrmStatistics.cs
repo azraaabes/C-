@@ -45,7 +45,7 @@ namespace CSharpEgitimKampi301.EFProject
 
 
             var guideIdByNameAysegulCinar =db.Guide.Where(x=>x.GuideName=="Ayşegül" && x.GuideSurname=="Çınar").Select(y => y.GuideId).FirstOrDefault();
-            lblAysegulCinarLocationCount.Text=db.Location.Where(x=>x.GuideId==guideIdByNameAysegulCinar).Count().ToString();
+            lblAysegulCinarLocationCount.Text=db.Location.Where(x=>x.GuideId==guideIdByNameAysegulCinar).Count().ToString(); 
         }
 
         private void label8_Click(object sender, EventArgs e)
