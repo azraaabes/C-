@@ -29,3 +29,11 @@ Son projede, kullanıcı girdilerine göre işlem yapan ve sonuç döndüren fon
 🚀 Proje 9-10: SQL ile CRUD İşlemleri
 Bu projede, SQL ile C# arasındaki köprüyü kurarak veritabanı işlemlerini etkin bir şekilde gerçekleştirmeyi öğrendim.Veritabanındaki ürünleri listele,silme ve güncelleme gibi farklı işlemler üzerinde çalıştım.
 
+🚀 Proje 11: Entity Framework,Tur Projesi
+
+
+![Tur Projesi](https://github.com/user-attachments/assets/c38fcea5-8e93-4318-9dad-4103df32e946)
+
+Bu projede, Entity Framework kullanarak bir seyahat veri tabanındaki bilgileri sorgulayıp Windows Forms üzerinde istatistiksel veriler sunan bir panel geliştirdim. Toplam lokasyon, kapasite, rehber sayısı gibi temel bilgilerin yanı sıra ortalama kapasite ve fiyat gibi istatistiklerin hesaplanmasını ve belirli şehir veya rehber bazında verilerin filtrelenmesini sağladım. Ayrıca maksimum kapasite ve fiyat gibi en yüksek değerlere sahip şehirleri tespit ettim. Bu proje, veri tabanı sorgulama ve LINQ kullanımı konularında becerilerimi geliştirirken, kullanıcı dostu arayüz tasarımı ile görsel bir sonuç sunmamı sağladı.
+
+
