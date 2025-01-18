@@ -36,4 +36,11 @@ Bu projede, SQL ile C# arasındaki köprüyü kurarak veritabanı işlemlerini e
 
 Bu projede, Entity Framework kullanarak bir seyahat veri tabanındaki bilgileri sorgulayıp Windows Forms üzerinde istatistiksel veriler sunan bir panel geliştirdim. Toplam lokasyon, kapasite, rehber sayısı gibi temel bilgilerin yanı sıra ortalama kapasite ve fiyat gibi istatistiklerin hesaplanmasını ve belirli şehir veya rehber bazında verilerin filtrelenmesini sağladım. Ayrıca maksimum kapasite ve fiyat gibi en yüksek değerlere sahip şehirleri tespit ettim. Bu proje, veri tabanı sorgulama ve LINQ kullanımı konularında becerilerimi geliştirirken, kullanıcı dostu arayüz tasarımı ile görsel bir sonuç sunmamı sağladı.
 
+🚀 Proje 12: Dapper Kullanımı
+
+![image](https://github.com/user-attachments/assets/c2185efd-1e52-4a4b-8b41-58e8361cf2e2)
+
+Bu proje, C# ve Dapper kullanarak bir veritabanı ile etkileşimli bir uygulama geliştirmek amacıyla oluşturulmuştur. Uygulama, temel veritabanı işlemleri (ekleme, listeleme, silme) gerçekleştiren bir Windows Forms uygulamasıdır.Dapper, SQL ile doğrudan çalışmanıza olanak tanır, ancak aynı zamanda C# nesneleri ile rahat bir şekilde veri alıp göndermenizi sağlar. Bu sayede, veritabanı ile etkileşim daha az kodla yapılır.
+
+
 
