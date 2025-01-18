@@ -43,6 +43,7 @@ Bu projede, Entity Framework kullanarak bir seyahat veri tabanındaki bilgileri 
 Bu proje, C# ve Dapper kullanarak bir veritabanı ile etkileşimli bir uygulama geliştirmek amacıyla oluşturulmuştur. Uygulama, temel veritabanı işlemleri (ekleme, listeleme, silme) gerçekleştiren bir Windows Forms uygulamasıdır.Dapper, SQL ile doğrudan çalışmanıza olanak tanır, ancak aynı zamanda C# nesneleri ile rahat bir şekilde veri alıp göndermenizi sağlar. Bu sayede, veritabanı ile etkileşim daha az kodla yapılır.
 
 🚀 Proje 13: MongoDB ve PostgreSQL Veritabanları Kullanımı
+
 Bu proje, C# kullanarak MongoDB ve PostgreSQL veritabanları ile etkileşimli bir uygulama geliştirmek amacıyla oluşturulmuştur. Uygulama, temel veritabanı işlemleri (ekleme, listeleme, güncelleme, silme) gerçekleştiren bir Windows Forms uygulamasıdır.
 MongoDB: JSON benzeri belgelerle (document-based) çalışmayı destekleyen NoSQL bir veritabanıdır. Uygulamada, esnek veri yapılarından faydalanılarak hızlı veri işleme sağlanmıştır.
 PostgreSQL: Güçlü ve açık kaynaklı bir ilişkisel veritabanı yönetim sistemidir. Uygulamada, tablo bazlı ilişkisel veriler üzerinde işlemler gerçekleştirilmiştir.
