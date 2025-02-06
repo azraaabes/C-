@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # C#
 I developed a hospital management system in C# where patients, doctors, and secretaries can log in with their credentials and manage appointments.
 =======
@@ -54,3 +55,6 @@ PostgreSQL: Güçlü ve açık kaynaklı bir ilişkisel veritabanı yönetim sis
 
 
 >>>>>>> origin/master
+=======
+
+>>>>>>> fe74a940bf63f11575bef0f364cb79dcea0a2520
