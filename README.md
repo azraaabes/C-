@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # C#
 I developed a hospital management system in C# where patients, doctors, and secretaries can log in with their credentials and manage appointments.
 =======
@@ -54,7 +53,4 @@ MongoDB: JSON benzeri belgelerle (document-based) çalışmayı destekleyen NoSQ
 PostgreSQL: Güçlü ve açık kaynaklı bir ilişkisel veritabanı yönetim sistemidir. Uygulamada, tablo bazlı ilişkisel veriler üzerinde işlemler gerçekleştirilmiştir.
 
 
->>>>>>> origin/master
-=======
 
->>>>>>> fe74a940bf63f11575bef0f364cb79dcea0a2520
